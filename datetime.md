@@ -80,3 +80,7 @@ At the time of writing, this produced the following output:
 ```
 2022-10-31 14:00:00 is greater than 2022-10-31 00:38:40.447068 is True
 ```
+
+---
+
+To learn more about everything offered by the `datetime` module in Python, check out the official documentation [here](https://docs.python.org/3/library/datetime.html).
