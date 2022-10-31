@@ -6,6 +6,7 @@ The markdown file has formatted notes describing concepts and talking about samp
 
 The recommended order for information is:
 
-1. math
-2. random
-3. datetime
+1. import
+2. math
+3. random
+4. datetime
